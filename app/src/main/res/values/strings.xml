@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">jongnhams</string>
+    <string name="nav_home" />
+    <string name="nav_coupon" />
+    <string name="nav_favorite" />
+    <string name="nav_me" />
+</resources>
